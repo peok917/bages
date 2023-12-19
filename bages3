@@ -1,1 +1,6 @@
-console.log("Hello")
+console.log("hello word");
+
+function main(){
+     console.log(1);
+}
+main()
